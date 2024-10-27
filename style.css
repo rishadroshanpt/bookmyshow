@@ -2,12 +2,10 @@
     background-color: #eeeded;
 }
 #logo{
-    padding-left: 45%;
+    padding-left: 15%;
     
 }
-/* #slogo{
 
-} */
 
 
 #login{
@@ -37,7 +35,7 @@
 #slogo{
     position: absolute;
     top: 20px;
-    left: 409px;
+    left: 15%;
     border: none;
 }
 #droplogo{
@@ -293,6 +291,7 @@
 }
 
 .footer {
+    margin-top: 5%;
     background-color: #2d2f30;
     color: white;
   }
@@ -357,15 +356,19 @@
   #contact{
     margin-left: 250px;
   }
-
+.movie_link{
+    padding: 2%;
+    padding-left: 10%;
+}
  #heading{
      color: rgb(176, 174, 174);
-     font-size: 14px;
+     font-size: 11px;
  } 
 .para{
     color: rgb(128, 124, 124);
 }
 #text1{
+    font-size: 11px;
     text-decoration: none;
     color: rgb(128, 124, 124);
 }
